@@ -6,6 +6,20 @@ navbar:
     - text: "Home"
       icon: fa-home
       href: index.html
+    - text: "Learn"
+      icon: fa-child
+      menu:
+        - text: "Blackboard"
+        - text: "Topic A"
+          href: page_a.html
+        - text: "Topic B"
+          href: page_b.html
+        - text: "---------"
+        - text: "TurnitIn"
+        - text: "Topic C"
+          href: page_c.html
+        - text: "Topic D"
+          href: page_d.html
     - text: "Contact"
       icon: fa-envelope
       href: contact.html
