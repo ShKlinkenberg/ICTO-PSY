@@ -9,3 +9,6 @@ navbar:
     - text: "Contact"
       icon: fa-envelope
       href: contact.html
+output:
+  html_document:
+    theme: cosmo
