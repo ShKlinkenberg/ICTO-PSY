@@ -1,3 +1,5 @@
-# Contact
+---
+title: "Contact"
+---
 
 Contact us at:
