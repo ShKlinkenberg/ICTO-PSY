@@ -1,5 +1,5 @@
 ---
-title: "My Website"
+title: "ICTO-PSY"
 ---
 
-Hello, Website!
+ICT and education department of Psychology - University of Amsterdam
