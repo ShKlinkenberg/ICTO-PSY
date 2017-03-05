@@ -1,9 +1,9 @@
-name: "my-website"
+name: "ICTO-PSY"
 output_dir: "."
 navbar:
-  title: "My Website"
+  title: "ICTO-PSY"
   left:
     - text: "Home"
       href: index.html
-    - text: "About"
-      href: about.html
+    - text: "Contact"
+      href: contact.html
