@@ -10,7 +10,7 @@ navbar:
       icon: fa-envelope
       href: contact.html
   right:
-    - icon: fa-github 
+    - icon: fa-github-alt # fa-github 
       href: https://github.com/ShKlinkenberg/ICTO-PSY
 output:
   html_document:
