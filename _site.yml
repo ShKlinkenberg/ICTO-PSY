@@ -7,5 +7,5 @@ navbar:
       icon: fa-home
       href: index.html
     - text: "Contact"
-      icon: ion-mail
+      icon: fa-envelope
       href: contact.html
