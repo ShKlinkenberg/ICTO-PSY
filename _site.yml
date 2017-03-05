@@ -4,6 +4,8 @@ navbar:
   title: "ICTO-PSY"
   left:
     - text: "Home"
+      icon: fa-home
       href: index.html
     - text: "Contact"
+      icon: ion-mail
       href: contact.html
