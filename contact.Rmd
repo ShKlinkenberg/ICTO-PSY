@@ -2,4 +2,4 @@
 title: "Contact"
 ---
 
-Contact us at:
+Contact us at: ICTO-PSY@uva.nl
