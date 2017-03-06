@@ -2,4 +2,5 @@
 title: "Contact"
 ---
 
-Contact us at: ICTO-PSY@uva.nl
+<!-- added some vancy anty spam thingy --> 
+Contact us at: <a style="unicode-bidi:bidi-override; direction: rtl;" href="javascript:window.location.href = 'mailto:' + ['ICTO-PSY','uva.nl'].join('@')">ln.avu@YSP-OTCI</a>
