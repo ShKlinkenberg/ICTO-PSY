@@ -28,4 +28,4 @@ navbar:
       href: https://github.com/ShKlinkenberg/ICTO-PSY
 output:
   html_document:
-    theme: default # "default", "cerulean", "journal", "flatly", "readable", "spacelab", "united", "cosmo", "lumen", "paper", "sandstone", "simplex", and "yeti"
+    theme: lumen # "default", "cerulean", "journal", "flatly", "readable", "spacelab", "united", "cosmo", "lumen", "paper", "sandstone", "simplex", and "yeti"
