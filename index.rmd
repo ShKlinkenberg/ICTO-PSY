@@ -2,5 +2,9 @@
 title: "ICTO-PSY"
 ---
 
+<<<<<<< HEAD
 ICT and education department of Psychology - University of Amsterdam
 
+=======
+ICT and education at the department of Psychology - University of Amsterdam
+>>>>>>> 7c493b1d6805efd685fda4d638aa63a2a3cb650a
