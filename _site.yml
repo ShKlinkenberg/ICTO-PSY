@@ -15,15 +15,15 @@ navbar:
         - text: "TurnitIn"
           href: turnitin.html
     - text: "Contact"
-      icon: fa-envelope
-      href: contact.html
+      menu:
+        - text: "ICTO-PSY"
+          icon: fa-envelope
+          href:  javascript:window.location.href = 'mailto:' + ['ICTO-PSY','uva.nl'].join('@')
   right:
     - icon: fa-github-alt # fa-github 
       href: https://github.com/ShKlinkenberg/ICTO-PSY
 output:
   html_document:
-    theme: united  
-
-
-      
-# "default", "cerulean", "journal", "flatly", "readable", "spacelab", "united", "cosmo", "lumen", "paper", "sandstone", "simplex", and "yeti"
+    theme: united  # "default", "cerulean", "journal", "flatly", "readable", "spacelab", "united", "cosmo", "lumen", "paper", "sandstone", "simplex", and "yeti"
+    
+   
