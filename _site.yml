@@ -3,9 +3,6 @@ output_dir: "."
 navbar:
   title: "ICTO-PSY"
   left:
-    - text: "Home"
-      icon: fa-home
-      href: index.html
     - text: "Learn"
       icon: fa-child
       menu:
