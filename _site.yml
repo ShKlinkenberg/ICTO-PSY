@@ -9,17 +9,14 @@ navbar:
     - text: "Learn"
       icon: fa-child
       menu:
-        - text: "Blackboard"
-        - text: "Topic A"
-          href: page_a.html
-        - text: "Topic B"
-          href: page_b.html
+        - text: "Canvas"
+          href: canvas.html
+        - text: "---------"
+        - text: "Testvision"
+          href: testvision.html
         - text: "---------"
         - text: "TurnitIn"
-        - text: "Topic C"
-          href: page_c.html
-        - text: "Topic D"
-          href: page_d.html
+          href: turnitin.html
     - text: "Contact"
       icon: fa-envelope
       href: contact.html
@@ -28,4 +25,8 @@ navbar:
       href: https://github.com/ShKlinkenberg/ICTO-PSY
 output:
   html_document:
-    theme: united  # "default", "cerulean", "journal", "flatly", "readable", "spacelab", "united", "cosmo", "lumen", "paper", "sandstone", "simplex", and "yeti"
+    theme: united  
+
+
+      
+# "default", "cerulean", "journal", "flatly", "readable", "spacelab", "united", "cosmo", "lumen", "paper", "sandstone", "simplex", and "yeti"
